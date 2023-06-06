@@ -21,7 +21,9 @@ import org.apache.commons.net.ftp.FTPClient;
  */
 public class JFrame extends javax.swing.JFrame {
 
-
+/*
+    Cambio para GIT
+    */
     public JFrame() {
         initComponents();
         //Añadimos el logo de FileZilla a la ventana
